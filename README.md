@@ -43,7 +43,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <h3 align="left">⚙️ Backend:</h3>
 <p align="left">
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" height="50"/>
-<img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" height="50"/>
+<img src="https://img.icons8.com/color/96/000000/express.png" style="background-color:white" alt="Express.js" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" height="50"/>
 </p>
