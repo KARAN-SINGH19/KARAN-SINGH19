@@ -66,7 +66,6 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/>
 </p>
 
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-singh19&layout=compact&hide=html" alt="Top Languages" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=karan-singh19&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /></p>
