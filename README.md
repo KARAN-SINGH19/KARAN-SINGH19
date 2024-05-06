@@ -8,7 +8,7 @@
 
 <h3 align="left">💻 Frontend:</h3>
 <p align="left">
-🌐 On the frontend, I wield HTML, CSS, and JavaScript like an artist with a palette, sculpting beautiful interfaces and engaging user experiences. I have a keen eye for design principles and strive to ensure pixel-perfect perfection in every project.
+On the frontend, I wield HTML, CSS, and JavaScript like an artist with a palette, sculpting beautiful interfaces and engaging user experiences. I have a keen eye for design principles and strive to ensure pixel-perfect perfection in every project.
 </p>
 
 <h3 align="left">⚙️ Backend:</h3>
