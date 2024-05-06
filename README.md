@@ -13,7 +13,7 @@
 
 <h3 align="left">⚙️ Backend:</h3>
 <p align="left">
-When it comes to the backend, I'm well-versed in a variety of frameworks and languages, including but not limited to Node.js and Express.js, . From crafting robust APIs to managing databases, I enjoy the challenge of building scalable and efficient backend systems.
+When it comes to the backend, I'm well-versed in a variety of frameworks and languages, including but not limited to Node.js and Express.js. From crafting robust APIs to managing databases, I enjoy the challenge of building scalable and efficient backend systems.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-singh19&label=Profile%20views&color=0e75b6&style=flat" alt="karan-singh19" /> </p>
