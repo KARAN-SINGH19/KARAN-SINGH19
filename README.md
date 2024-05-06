@@ -3,7 +3,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="justify">
-I'm Karandeep Singh, a passionate full-stack web developer with a knack for crafting elegant, user-centric digital experiences. With a blend of creativity and technical expertise, I excel in both frontend and backend development.
+FULL STACK WEB DEVELOPER | SOFTWARE ENGINEAR | PASSOINATE ABOUT WEB DEVELOPMENT
 </p>
 
 <h3 align="left">💻 Frontend:</h3>
