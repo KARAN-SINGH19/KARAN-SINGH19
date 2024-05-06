@@ -44,15 +44,14 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <p align="left">
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/express.png" style="background-color:white" alt="Express.js" height="50"/>
-<img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" height="50"/>
+<img src="https://camo.githubusercontent.com/1b9c646dbc2f89735500adbf80cbd663c00b58cb53404a23e2acc24a1654606f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f6c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Django" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" height="50"/>
 </p>
 
 <h3 align="left">⚙️ Databases:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="50"/>
-<img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" height="50"/>
-<img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" height="50"/>
+<img src="https://camo.githubusercontent.com/23ebf747524545d0cbd83d0e5b62c7516d30af8bb60c5cf3a03075d14153740d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="MySQL" height="50"/>
+<img src="https://camo.githubusercontent.com/91ba862d6766f1eb255b8aac0f6977c66c70a05b4f2c89018da5f036ed16ff00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="PostgreSQL" height="50"/>
 <img src="https://camo.githubusercontent.com/de9ba4e5fdf913203e8f67c95ba7470d4213f0e484c9a0900f6c7a0a7e44ad79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="PostgreSQL" height="50"/>
 </p>
 
