@@ -48,17 +48,24 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" height="30"/>
 </p>
 
+<h3 align="left">⚙️ Databases:</h3>
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="30"/>
 </p>
 
+<h3 align="left">⚙️ Other:</h3>
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="30"/>
+</p>
+
+<h3 align="left">⚙️ Languages:</h3>
+<p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/>
 </p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-singh19&layout=compact&hide=html" alt="Top Languages" /></p>
 
