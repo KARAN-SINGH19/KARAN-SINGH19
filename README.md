@@ -33,23 +33,23 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <div>
   <h2>Technologies</h2>
   <p align="center">
-    <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
-     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 10px;">
-    <img src="https://img.icons8.com/?size=85&id=EPbEfEa7o8CB&format=png" alt="Postman" style="margin: 10px; padding-bottom: 5px;">
     <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/php.png" alt="php" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="my-sql" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" style="margin: 10px;">
+     <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="my-sql" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/sqlite.png" alt="SQLite" style="margin: 10px;">
+     <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
+     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 10px;">
+     <img src="https://img.icons8.com/?size=85&id=EPbEfEa7o8CB&format=png" alt="Postman" style="margin: 10px; padding-bottom: 5px;">
     <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="figma" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/jira.png" alt="JIRA" style="margin: 10px;">
-     <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/sqlite.png" alt="SQLite" style="margin: 10px;">
   </p>
 </div>
 
