@@ -42,7 +42,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 
 <h3 align="left">⚙️ Backend:</h3>
 <p align="left">
-<img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" height="40"/>
+<img src="https://icons8.com/icon/oJvfsaofIav6/postgresql" alt="Node.js" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" height="40"/>
 <img src="https://img.icons8.com/officel/80/000000/php-logo.png" alt="PHP" height="40"/>
@@ -53,7 +53,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/postgresql.png" alt="PostgreSQL" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" height="40"/>
-<img src="https://img.icons8.com/color/96/000000/sqlite.png" alt="SQLite" height="40"/>
+<img src="https://icons8.com/icon/oJvfsaofIav6/postgresql" alt="SQLite" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Other:</h3>
