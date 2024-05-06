@@ -25,6 +25,7 @@
         </p>
         <hr>
         <div class="technologies">
+            <h2>Technologies</h2>
             <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML">
             <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS">
             <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript">
