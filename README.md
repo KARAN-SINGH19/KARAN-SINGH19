@@ -34,6 +34,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
   <h2>Technologies</h2>
   <p align="center">
     <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
+     <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 10px;">
     <img src="https://img.icons8.com/?size=85&id=EPbEfEa7o8CB&format=png" alt="Postman" style="margin: 10px; padding-bottom: 5px;">
     <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
