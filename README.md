@@ -53,7 +53,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" height="30"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="30" height="30"><path fill="#000000" d="M24 8c-5.8 0-10.5 4.7-10.5 10.5S18.2 29 24 29s10.5-4.7 10.5-10.5S29.8 8 24 8zm1 13.5l-5.5 6 1 1.5 7-7-7-7-1 1.5 5.5 6z"/></svg>
 </p>
 
 <h3 align="left">⚙️ Other:</h3>
