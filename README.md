@@ -46,8 +46,8 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 
 <h2>Databases</h2>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" height="30"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="30"/>
 
 <h2>Other</h2>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="30"/>
