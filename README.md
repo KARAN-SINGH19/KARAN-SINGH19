@@ -38,19 +38,21 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="30"/>
 <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React.js" height="30"/>
 
-Backend: 
+<h2>Backend<h2/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="30"/>
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" height="30"/>
 
-Databases: 
+<h2>Databases<h2/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" height="30"/>
 
-Others: 
+<h2>Other<h2/>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="30"/>
+  
+<h2>Languages<h2/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="30"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/>
 </p>
