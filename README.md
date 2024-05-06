@@ -44,7 +44,6 @@ Feel free to drop me an email at rehalkaran37@gmail.com
     <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" style="margin: 10px;">
      <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="my-sql" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/sqlite.png" alt="SQLite" style="margin: 10px;">
      <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 10px;">
      <img src="https://img.icons8.com/?size=85&id=EPbEfEa7o8CB&format=png" alt="Postman" style="margin: 10px; padding-bottom: 5px;">
