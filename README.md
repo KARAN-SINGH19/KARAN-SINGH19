@@ -25,45 +25,46 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/karan-rehal-3a5285244" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin.com/in/karan-rehal-3a5285244" height="50" width="40" /></a>
-<a href="https://instagram.com/_karan_singh_18" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="_karan_singh_18" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/karan-rehal-3a5285244" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin.com/in/karan-rehal-3a5285244" height="50" width="50" /></a>
+<a href="https://instagram.com/_karan_singh_18" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="_karan_singh_18" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <h3 align="left">💻 Frontend:</h3>
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="30"/>
-<img src="https://img.icons8.com/officel/40/000000/react.png" alt="React.js" height="30"/>
+<img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" height="40"/>
+<img src="https://img.icons8.com/officel/80/000000/react.png" alt="React.js" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Backend:</h3>
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="30"/>
-<img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" height="30"/>
+<img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" height="40"/>
+<img src="https://img.icons8.com/officel/80/000000/php-logo.png" alt="PHP" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Databases:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="30"/>
+<img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/postgresql.png" alt="PostgreSQL" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/sqlite.png" alt="SQLite" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Other:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="30"/>
+<img src="https://img.icons8.com/color/96/000000/figma--v1.png" alt="Figma" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Languages:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="30"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="30"/>
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" height="40"/>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-singh19&layout=compact&hide=html" alt="Top Languages" /></p>
