@@ -53,7 +53,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" height="50"/>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="30" height="30"><path fill="#000000" d="M24 8c-5.8 0-10.5 4.7-10.5 10.5S18.2 29 24 29s10.5-4.7 10.5-10.5S29.8 8 24 8zm1 13.5l-5.5 6 1 1.5 7-7-7-7-1 1.5 5.5 6z"/></svg>
+<img src="https://camo.githubusercontent.com/de9ba4e5fdf913203e8f67c95ba7470d4213f0e484c9a0900f6c7a0a7e44ad79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="PostgreSQL" height="50"/>
 </p>
 
 <h3 align="left">⚙️ Other:</h3>
