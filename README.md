@@ -37,6 +37,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
     <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/php.png" alt="php" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" style="margin: 10px;">
