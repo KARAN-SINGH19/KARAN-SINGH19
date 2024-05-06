@@ -45,7 +45,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" height="50"/>
-<img src="https://icons8.com/icon/3753/php" alt="PHP" height="50"/>
+<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" height="50"/>
 </p>
 
 <h3 align="left">⚙️ Databases:</h3>
