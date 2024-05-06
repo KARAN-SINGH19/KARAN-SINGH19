@@ -72,3 +72,22 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=karan-singh19&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-singh19" alt="GitHub Streak" /></p>
+
+
+
+
+<div>
+  <h2>Skills</h2>
+  <p align="center">
+    <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/chatgpt.png" alt="JavaScript (JS)" style="margin: 10px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="85px" style="margin: 10px; padding-bottom: 5px;">
+    <img src="https://img.icons8.com/color/96/000000/flask.png" alt="Flask" style="margin: 10px;">
+    <img src="https://img.icons8.com/?size=85&id=EPbEfEa7o8CB&format=png" alt="Postman" style="margin: 10px; padding-bottom: 5px;">
+    <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/php.png" alt="php" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="my-sql" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/git.png" alt="git" style="margin: 10px;">
+    <img src="https://
