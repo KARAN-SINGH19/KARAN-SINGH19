@@ -30,8 +30,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <a href="https://linkedin.com/in/linkedin.com/in/karan-rehal-3a5285244" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin.com/in/karan-rehal-3a5285244" height="50" width="50" /></a>
 <a href="https://instagram.com/_karan_singh_18" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="_karan_singh_18" height="50" width="50" /></a>
 </p>
-
-
+<hr/>
 <div>
   <h2>Technologies</h2>
   <p align="center">
