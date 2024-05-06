@@ -2,8 +2,8 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<p align="justify">
-FULL STACK WEB DEVELOPER | SOFTWARE ENGINEAR | PASSOINATE ABOUT WEB DEVELOPMENT
+<p align="center">
+<strong>FULL STACK WEB DEVELOPER | SOFTWARE ENGINEAR | PASSOINATE ABOUT WEB DEVELOPMENT</strong>
 </p>
 
 <h3 align="left">💻 Frontend:</h3>
