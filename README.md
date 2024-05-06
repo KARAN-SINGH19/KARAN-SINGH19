@@ -2,16 +2,18 @@
 
 <h3 align="center">🚀 About Me</h3>
 
+<hr/>
+
 <p align="center">
 <strong>FULL STACK WEB DEVELOPER | SOFTWARE ENGINEAR | PASSOINATE ABOUT WEB DEVELOPMENT</strong>
 </p>
+
+<hr/>
 
 <h3 align="left">💻 Frontend:</h3>
 <p align="left">
 On the frontend, I wield HTML, CSS, and JavaScript like an artist with a palette, sculpting beautiful interfaces and engaging user experiences. I have a keen eye for design principles and strive to ensure pixel-perfect perfection in every project.
 </p>
-
-<hr/>
 
 <h3 align="left">⚙️ Backend:</h3>
 <p align="left">
