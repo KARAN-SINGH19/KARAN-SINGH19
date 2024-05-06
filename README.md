@@ -11,6 +11,8 @@
 On the frontend, I wield HTML, CSS, and JavaScript like an artist with a palette, sculpting beautiful interfaces and engaging user experiences. I have a keen eye for design principles and strive to ensure pixel-perfect perfection in every project.
 </p>
 
+<hr/>
+
 <h3 align="left">⚙️ Backend:</h3>
 <p align="left">
 When it comes to the backend, I'm well-versed in a variety of frameworks and languages, including but not limited to Node.js and Express.js. From crafting robust APIs to managing databases, I enjoy the challenge of building scalable and efficient backend systems.
