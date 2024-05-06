@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Karandeep Singh</h1>
-
-<h3 align="center">🚀 About Me</h3>
-
 <hr/>
+<h3 align="center">🚀 About Me</h3>
 
 <p align="center">
 <strong>FULL STACK WEB DEVELOPER | SOFTWARE ENGINEAR | PASSOINATE ABOUT WEB DEVELOPMENT</strong>
