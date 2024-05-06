@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<h3 align="center">
+<h3 align="justify">
 🌐 On the frontend, I wield HTML, CSS, and JavaScript like an artist with a palette, sculpting beautiful interfaces and engaging user experiences. I have a keen eye for design principles and strive to ensure pixel-perfect perfection in every project.
 
 ⚙️ When it comes to the backend, I'm well-versed in a variety of frameworks and languages, including but not limited to Node.js, Express.js, Django, and Flask. From crafting robust APIs to managing databases, I enjoy the challenge of building scalable and efficient backend systems. 
