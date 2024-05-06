@@ -44,6 +44,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
     <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="figma" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/jira.png" alt="JIRA" style="margin: 10px;">
+     <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" style="margin: 10px;">
