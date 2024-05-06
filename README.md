@@ -33,7 +33,7 @@ Feel free to drop me an email at rehalkaran37@gmail.com
 <p align="left">
 Frontend: 
 <img src="https://camo.githubusercontent.com/532bb782e2dce604b98c0804d0fea04da17c8c0c02f19dc42e555d319e7b2cc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="HTML5" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/>
+<img src="https://camo.githubusercontent.com/be298d1c7e3fa58bd8f2882fe243b6f4d23efefd04a98d2829c1b9b0e7230931/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="CSS3" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="30"/>
